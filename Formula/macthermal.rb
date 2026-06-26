@@ -1,8 +1,8 @@
 class Macthermal < Formula
   desc "macOS temperature & fan-speed analyzer (reads the SMC via IOKit)"
   homepage "https://github.com/guillerDev/macthermal"
-  url "https://github.com/guillerDev/macthermal/archive/refs/tags/v0.2.0.tar.gz"
-  sha256 "89cfb51b94cc126b19c267156b9785b6f54b0489819d77cfb9861fdd6e84e8fe"
+  url "https://github.com/guillerDev/macthermal/archive/refs/tags/v0.3.0.tar.gz"
+  sha256 "54bed0cee0c505b80c464c6e5820e75297b75f2d77bfacb7d1b84fdab05137b7"
   license "MIT"
   head "https://github.com/guillerDev/macthermal.git", branch: "main"
 
