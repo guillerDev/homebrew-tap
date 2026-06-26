@@ -1,6 +1,6 @@
 cask "macthermal" do
-  version "0.3.0"
-  sha256 "9b92b0c3a5865f70bd6603d2842fb62e1779ea030ca5050afa1dbffe1586713d"
+  version "0.4.0"
+  sha256 "03f6e8b0350bd47062dd6a3f567d8d9f5b0f71688f8cf776bd9401e6d06df218"
 
   url "https://github.com/guillerDev/macthermal/releases/download/v#{version}/macthermal-app-v#{version}.zip"
   name "macthermal"
