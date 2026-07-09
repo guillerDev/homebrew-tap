@@ -4,8 +4,8 @@
 # Replace guillerDev with your GitHub username/org. The Release workflow then keeps
 # `version` and `sha256` up to date automatically on each tagged release.
 cask "macpower" do
-  version "1.0.4"
-  sha256 "b8c429c2dec53c9aae98b4e29a531cb74c7519fbeec127f0a468d3854511a4f3"
+  version "1.0.5"
+  sha256 "b64de73206acf8baeca9e85e5a5e98a63cefa8ce06d413c7bc0c5f12f5b62cf0"
 
   url "https://github.com/guillerDev/macpower/releases/download/v#{version}/MacPower-v#{version}.zip"
   name "MacPower"
